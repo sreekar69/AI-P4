@@ -1,8 +1,8 @@
 # AI-P4
 
 group members-
-Ashish Beerelli
-Mohit Reddy Vatti
-Sai Tejasvi Ramsagar
-Sreeker Kuragayala
+1)Ashish Beerelli
+2)Mohit Reddy Vatti
+3)Sai Tejasvi Ramsagar
+4)Sreeker Kuragayala
 
